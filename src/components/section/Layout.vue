@@ -154,6 +154,8 @@
           <div class="text-center">
             <img src="https://cdn.novusphere.io/static/atmos.svg" style="width: 12.5%">
             <img src="https://cdn.novusphere.io/static/eos3.svg" style="width: 12.5%">
+            <img src="https://cdn.discordapp.com/attachments/522320367293825036/522320438161047552/icon-1.png" style="width: 12.5%">   
+            <img src="https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/pixeos.png" style="width: 12.5%">                        
           </div>
 
         </div>
